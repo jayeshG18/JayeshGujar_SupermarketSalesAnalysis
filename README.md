@@ -11,7 +11,8 @@ This project analyzes supermarket historical sales data across different product
 
 ## Dataset
 - **Dataset Name**: Supermarket Sales Dataset
-- **Link**: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+- **Link**: https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
+- **Backup Raw csv**:https://raw.githubusercontent.com/datasets/master/supermarket_sales.csv
 
 ## Tech Stack & Libraries Used
 - **Language**: Python 3.x
